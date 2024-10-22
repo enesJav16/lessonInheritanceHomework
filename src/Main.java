@@ -8,11 +8,11 @@ public class Main {
         Singer singer=new Singer("Ensa","Super star","Super Stars");
 
 
-        System.out.println(programmer.toString());
+        System.out.println(programmer);
         System.out.println("================================");
-        System.out.println(dancer.toString());
+        System.out.println(dancer);
         System.out.println("================================");
-        System.out.println(singer.toString());
+        System.out.println(singer);
 
     }
 }
